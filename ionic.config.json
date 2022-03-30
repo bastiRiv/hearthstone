@@ -1,0 +1,7 @@
+{
+  "name": "hearthstones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
